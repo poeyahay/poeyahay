@@ -1,4 +1,4 @@
-- 👋😄 Hi, I’m @poeyahay
+- 👋😄 Hi, I’m @poeyahay,
   I'm a medical master student at the **Amsterdam UMC (location, AMC)**.
   Currently diving into the intersection of **Genetics** and **Cardiovascular Disease**.  
 - 🧬💡 What I'm working on:
